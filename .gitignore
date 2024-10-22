@@ -166,3 +166,4 @@ cython_debug/
 CrashAutoSave*
 TouchDesignerCrash*
 TDImportCache/*
+.docs/**/*
