@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/use.html",
-          "hash": "SaqB23iWoYNr2RLXvIHRwwM4mWs080YmXZ8jSxPVHZU="
+          "hash": "1WrGF19z+g3wYos+pT1H/f151/V7/WKTsDj6uEln/Hs="
         }
       },
       "is_incremental": false,
@@ -276,6 +276,17 @@
       "output": {
         "resource": {
           "relative_path": "resources/screenshot_2024-09-30_102830.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-10-24_134427.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-10-24_134427.png"
         }
       },
       "is_incremental": false,
