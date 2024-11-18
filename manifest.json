@@ -38,6 +38,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "manual/render.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/render.html",
+          "hash": "wYN0+c2d8JnPqq/kckNDhISQcmbWe4IZO2QoIobAlC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "manual/texture.md",
       "output": {
         ".html": {
@@ -49,12 +61,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "manual/toc.yml",
       "output": {
         ".html": {
           "relative_path": "manual/toc.html",
-          "hash": "hXhpW3JNy7JXqaN/TX9qM44O9Z7901XES6DgqZa7o48="
+          "hash": "Ikbadagvm8RiAfJRlS2HdG1Jf8HkkA40rvY/9wS+3tc="
         }
       },
       "is_incremental": false,
@@ -293,6 +308,61 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_101329.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_101329.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_101946.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_101946.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_102127.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_102127.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_103048.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_103048.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/screenshot_2024-11-18_104205.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/screenshot_2024-11-18_104205.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
@@ -319,7 +389,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 5,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
