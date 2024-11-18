@@ -6,5 +6,7 @@
     href: install.md
   - name: プラグインの利用方法
     href: use.md
+  - name: 書き出したデータのレンダリング
+    href: rebder.md
   - name: テクスチャ込みのデータを使うには
     href: texture.md
